@@ -152,3 +152,7 @@ Here are some of the most commonly used npm packages for React projects:
     - Create animations and transitions in React apps with a simple API.
     - Installation: `npm install react-spring`
 
+## Deployment
+### vercel
+- Deploy your projects on vercel platform.
+- Vercel is a cloud platform that helps developers build, preview, and deploy web applications. https://vercel.com/
